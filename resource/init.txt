@@ -1,0 +1,7 @@
+{
+	"BackGround":{"min_x":400,"max_x":1200,"block_moveP":4,"sky_moveP":2,"screen_w":800,"sky_draw_h":300,"sky_y":450,"block_draw_h":350,"block_y":130}
+	
+
+
+
+}

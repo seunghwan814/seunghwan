@@ -1,0 +1,448 @@
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 3, in <module>
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\title_state.py", line 5, in <module>
+    import main_state
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\main_state.py", line 4, in <module>
+    import bakground_bg
+  File "<frozen importlib._bootstrap>", line 2237, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 2226, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 1191, in _load_unlocked
+  File "<frozen importlib._bootstrap>", line 1161, in _load_backward_compatible
+  File "C:\Python34\lib\site-packages\zipextimporter.py", line 86, in load_module
+    return zipimport.zipimporter.load_module(self, fullname)
+  File "E:\download\2014\bakground_bg.py", line 6, in <module>
+    init_data_file=open('./resource/init.txt','r')
+FileNotFoundError: [Errno 2] No such file or directory: './resource/init.txt'
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 88, in run
+    start_state.enter()
+  File "E:\download\2014\title_state.py", line 15, in enter
+    image = load_image('./resource/title.png')
+NameError: name 'load_image' is not defined
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 257, in load_image
+    raise IOError
+OSError
+Traceback (most recent call last):
+  File "mygame.py", line 12, in <module>
+  File "E:\download\2014\game_framework.py", line 93, in run
+    stack[-1].handle_events(frame_time)
+  File "E:\download\2014\title_state.py", line 44, in handle_events
+    game_framework.change_state(main_state)
+  File "E:\download\2014\game_framework.py", line 52, in change_state
+    state.enter()
+  File "E:\download\2014\main_state.py", line 49, in enter
+    player=Player_item.Player()
+  File "E:\download\2014\Player_item.py", line 48, in __init__
+    self.image = load_image('./resource/player1.png')
+  File "E:\download\2014\pico2d.py", line 270, in load_image
+    raise IOError
+OSError
